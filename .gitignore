@@ -1,0 +1,25 @@
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Local configuration files
+config.local.php
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# XAMPP temporary files
+php_errorlog

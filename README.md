@@ -10,17 +10,17 @@ A web-based attendance recording system developed to help students record, view,
 
 Technologies Used
 
-PHP
+- PHP
 
-MySQL
+- MySQL
 
-phpMyAdmin
+- phpMyAdmin
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 Features
 
@@ -40,17 +40,17 @@ The system uses MySQL to store attendance records and student information. The d
 
 How to Run
 
-Install XAMPP.
+1. Install XAMPP.
 
-Start Apache and MySQL.
+2. Start Apache and MySQL.
 
-Copy the project folder into the htdocs directory.
+3. Copy the project folder into the htdocs directory.
 
-Open phpMyAdmin and create a database.
+4. Open phpMyAdmin and create a database.
 
-Import the provided SQL file into the database.
+4. Import the provided SQL file into the database. (use file sistem_kehadiran_kelab_catur_smk_dato_bentara_luar.sql)
 
-Configure the database connection in the PHP files.
+5. Configure the database connection in the PHP files.
 
 
 
@@ -58,7 +58,7 @@ Open the following URL in your browser:
 
 
 
-http://localhost/your-project-folder/
+http://localhost/your-folder-name-in-htdocs/
 
 
 
